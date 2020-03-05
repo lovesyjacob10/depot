@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  description: MyText
+  image_url: cake2.jpg
+  price: 9.99
+
+two:
+  title: MyString
+  description: MyText
+  image_url: cake3.jpg
+  price: 9.99
+
+ruby:
+  title: cakes
+  description: Chocolate cake is made with chocolate. It can also include other ingredients.
+  price: 49.50
+  image_url: cake1.jpg
